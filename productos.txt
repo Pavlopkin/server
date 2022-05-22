@@ -1,0 +1,16 @@
+{
+	"id": 1,
+	"title": "Campera Gore Tex",
+	"price": "https://pavlopkin.github.io/Art-Vandelay/assets/gore.png",
+	"thumbnail": 25000
+}{
+	"id": 2,
+	"title": "Puffy Shirt",
+	"price": "https://pavlopkin.github.io/Art-Vandelay/assets/puffy.png",
+	"thumbnail": 60000
+}{
+	"id": 3,
+	"title": "Bolígrafo anti gravedad",
+	"price": "https://pavlopkin.github.io/Art-Vandelay/assets/boligrafo.png",
+	"thumbnail": 1500
+}
